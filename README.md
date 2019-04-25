@@ -13,6 +13,10 @@ Use node to run this program. Use node liri.js then run one of the following com
 * Venue location
 * Date of the Event
 
+<br>
+
+<img width="682" alt="Screen Shot 2019-04-25 at 2 57 54 PM" src="https://user-images.githubusercontent.com/48463632/56762108-0be27f00-676d-11e9-91f0-78a033641673.png">
+
 ### When spotify-this-song command is used you will be provided with:
 * Artist(s)
 * The song's name
