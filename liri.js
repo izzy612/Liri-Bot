@@ -62,7 +62,7 @@ function concerts(guideline) {
 function spotifySong(songName) {
  
 
-  if (songName === undefined) {
+  if (songName != true) {
     songName = "The Sign";
   };
   
@@ -86,7 +86,7 @@ function spotifySong(songName) {
 
 function laMovie(movieName) {
 
-  if (movieName === undefined) {
+  if (movieName != true) {
     movieName = "Mr. Nobody";
     }
 
