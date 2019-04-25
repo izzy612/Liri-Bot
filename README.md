@@ -26,6 +26,8 @@ Use node to run this program. Use node liri.js then run one of the following com
 
 <img width="682" alt="Screen Shot 2019-04-25 at 3 00 48 PM" src="https://user-images.githubusercontent.com/48463632/56762197-4ba96680-676d-11e9-8c73-e4a6ac23fbf6.png">
 
+<img width="682" alt="Screen Shot 2019-04-25 at 3 30 33 PM" src="https://user-images.githubusercontent.com/48463632/56764141-09ceef00-6772-11e9-8173-467c43fe4780.png">
+
 
 ### When movie-this command is used you will be provided with:
 * Title of the movie.
