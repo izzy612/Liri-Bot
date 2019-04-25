@@ -22,7 +22,7 @@ Use node to run this program. Use node liri.js then run one of the following com
 * The song's name
 * A preview link of the song from Spotify
 * The album that the song is from
-* If no song is provided then your program will default to "The Sign" by Ace of Base.
+* If no song is provided then your program will default to "The Sign" by Harry Styles.
 
 <img width="682" alt="Screen Shot 2019-04-25 at 3 00 48 PM" src="https://user-images.githubusercontent.com/48463632/56762197-4ba96680-676d-11e9-8c73-e4a6ac23fbf6.png">
 
