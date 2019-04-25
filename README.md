@@ -38,6 +38,8 @@ Use node to run this program. Use node liri.js then run one of the following com
 * Actors in the movie.
 * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.
 
+<img width="682" alt="Screen Shot 2019-04-25 at 3 01 28 PM" src="https://user-images.githubusercontent.com/48463632/56762426-d0948000-676d-11e9-8d47-530fc266159c.png">
+
 
 
 
