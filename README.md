@@ -24,6 +24,8 @@ Use node to run this program. Use node liri.js then run one of the following com
 * The album that the song is from
 * If no song is provided then your program will default to "The Sign" by Ace of Base.
 
+<img width="682" alt="Screen Shot 2019-04-25 at 3 00 48 PM" src="https://user-images.githubusercontent.com/48463632/56762197-4ba96680-676d-11e9-8c73-e4a6ac23fbf6.png">
+
 
 ### When movie-this command is used you will be provided with:
 * Title of the movie.
