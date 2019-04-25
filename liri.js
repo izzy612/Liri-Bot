@@ -38,6 +38,8 @@ switch (request) {
     break;
   default:
     
+    console.log("Enter the guilines!")
+    
    
   
 }
@@ -60,7 +62,7 @@ function concerts(guideline) {
 function spotifySong(songName) {
  
 
-  if (!songName) {
+  if (songName === undefined) {
     songName = "The Sign";
   };
   
@@ -72,8 +74,8 @@ function spotifySong(songName) {
   }).then(function (response) {
     console.log("Title: " + response.tracks.items[0].name);
     console.log("Artist: " + response.tracks.items[0].artists[0].name);
-    console.log("Link: " + response.tacks.items[0].external_urls.spotify);
-    console.log("Album: " + response.track.items[0].album.name);
+    console.log("Link: " + response.tracks.items[0].external_urls.spotify);
+    console.log("Album: " + response.tracks.items[0].album.name);
   }) 
   .catch(function (err) {
     console.log(err);
@@ -84,7 +86,7 @@ function spotifySong(songName) {
 
 function laMovie(movieName) {
 
-  if (!movieName) {
+  if (movieName === undefined) {
     movieName = "Mr. Nobody";
     }
 
