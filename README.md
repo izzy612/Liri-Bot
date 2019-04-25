@@ -43,7 +43,8 @@ Use node to run this program. Use node liri.js then run one of the following com
 <img width="682" alt="Screen Shot 2019-04-25 at 3 01 28 PM" src="https://user-images.githubusercontent.com/48463632/56762426-d0948000-676d-11e9-8d47-530fc266159c.png">
 
 
-![image](https://user-images.githubusercontent.com/48463632/56764067-dc824100-6771-11e9-9785-d26f0eed9768.png)
+
+<img width="682" alt="Screen Shot 2019-04-25 at 3 29 50 PM" src="https://user-images.githubusercontent.com/48463632/56764246-48fd4000-6772-11e9-9394-f30ef8fcb454.png">
 
 
 
